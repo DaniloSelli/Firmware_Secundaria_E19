@@ -1,0 +1,8 @@
+../Core/Src/secundaria_can.c:10:13:Verify_Data	16	static
+../Core/Src/secundaria_can.c:31:13:Tx_Analog_1_4	24	static
+../Core/Src/secundaria_can.c:57:13:Tx_Analog_5_8	24	static
+../Core/Src/secundaria_can.c:83:13:Tx_Analog_9_12	24	static
+../Core/Src/secundaria_can.c:109:13:Tx_Analog_13_16	24	static
+../Core/Src/secundaria_can.c:135:13:Tx_Verify	24	static
+../Core/Src/secundaria_can.c:163:6:Secundaria_CAN_Start	64	static
+../Core/Src/secundaria_can.c:203:6:Secundaria_Transmit_Message	16	static

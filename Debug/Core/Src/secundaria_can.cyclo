@@ -1,0 +1,8 @@
+secundaria_can.c:10:13:Verify_Data	5
+secundaria_can.c:31:13:Tx_Analog_1_4	5
+secundaria_can.c:57:13:Tx_Analog_5_8	5
+secundaria_can.c:83:13:Tx_Analog_9_12	5
+secundaria_can.c:109:13:Tx_Analog_13_16	5
+secundaria_can.c:135:13:Tx_Verify	85
+secundaria_can.c:163:6:Secundaria_CAN_Start	1
+secundaria_can.c:203:6:Secundaria_Transmit_Message	6

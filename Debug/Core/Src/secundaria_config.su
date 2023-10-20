@@ -1,0 +1,5 @@
+../Core/Src/secundaria_config.c:13:6:Secundaria_Init	24	static
+../Core/Src/secundaria_config.c:25:19:Secundaria_Receive_Config	16	static
+../Core/Src/secundaria_config.c:42:13:Secundaria_Hard_Code_Init	8	static
+../Core/Src/secundaria_config.c:53:26:Load_EEPROM	32	static
+../Core/Src/secundaria_config.c:74:26:Save_EEPROM	32	static

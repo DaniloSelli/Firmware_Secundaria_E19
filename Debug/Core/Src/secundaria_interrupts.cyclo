@@ -1,0 +1,2 @@
+secundaria_interrupts.c:10:6:HAL_CAN_RxFifo0MsgPendingCallback	4
+secundaria_interrupts.c:24:6:HAL_TIM_PeriodElapsedCallback	2
